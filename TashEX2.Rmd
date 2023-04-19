@@ -19,4 +19,7 @@ header-includes:
 - \sectionfont{\color{olive}}
 - \usepackage{verbatim}
 
+## New section 
+
+This is a new section 
 
